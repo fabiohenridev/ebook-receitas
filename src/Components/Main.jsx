@@ -14,7 +14,7 @@ const Comprar = ()=>{
             <div className="Box2Main">
               <h4 style={{color: "white"}}>Descrição</h4>
 
-              <p>Você está em busca de <strong>receitas deliciosas</strong>, <strong>fáceis de fazer</strong> e que vão encantar seu paladar? O <strong>eBook "Receitas Incríveis"</strong> é a solução perfeita para quem quer adicionar um toque de sabor às refeições do dia a dia sem complicação!</p>
+              <p>Você está em busca de <strong>receitas deliciosas</strong>, <strong>fáceis de fazer</strong> e que vão encantar seu paladar? O <strong>eBook "Hobby de cozinha"</strong> é a solução perfeita para quem quer adicionar um toque de sabor às refeições do dia a dia sem complicação!</p>
 
 <p>Com receitas testadas e aprovadas, este guia oferece <strong>dicas simples</strong> e <strong>preparos rápidos</strong> para você surpreender sua família e amigos. Cada receita foi pensada para quem não tem muito tempo na cozinha, mas não abre mão de um prato cheio de sabor.</p>
 
