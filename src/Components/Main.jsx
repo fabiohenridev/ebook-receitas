@@ -1,6 +1,10 @@
 import "./Main.css";
 
 export default function Main(){
+const Comprar = ()=>{
+    window.location.href= "https://techouseofc.pay.yampi.com.br/r/4MHMIHNSLS";
+}
+
     return(
         <main>
             <div className="Box1Main">
@@ -24,6 +28,9 @@ export default function Main(){
 
 <p>Com este eBook, você vai descobrir que é possível criar pratos fantásticos com poucos ingredientes e de maneira super prática. Se você está pronto para dar um <strong>upgrade nas suas receitas</strong> e impressionar todos ao seu redor, este guia é para você!</p>
             </div>
+            <br/>
+            <br/>
+            <button onClick={()=>Comprar()} className="Button">COMPRAR AGORA</button>
         </main>
     )
 }
